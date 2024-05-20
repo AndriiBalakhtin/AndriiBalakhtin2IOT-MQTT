@@ -22,3 +22,4 @@ C:\Users\balakhtina\Desktop\AndriiBalakhtin2IOT-MQTT\AndriiBalakhtinConsoleApp\A
 C:\Users\balakhtina\Desktop\AndriiBalakhtin2IOT-MQTT\AndriiBalakhtinConsoleApp\AndriiBalakhtinConsoleApp\obj\Debug\net8.0\AndriiBalakhtinConsoleApp.pdb
 C:\Users\balakhtina\Desktop\AndriiBalakhtin2IOT-MQTT\AndriiBalakhtinConsoleApp\AndriiBalakhtinConsoleApp\obj\Debug\net8.0\AndriiBalakhtinConsoleApp.genruntimeconfig.cache
 C:\Users\balakhtina\Desktop\AndriiBalakhtin2IOT-MQTT\AndriiBalakhtinConsoleApp\AndriiBalakhtinConsoleApp\obj\Debug\net8.0\ref\AndriiBalakhtinConsoleApp.dll
+C:\Users\balakhtina\Desktop\AndriiBalakhtin2IOT-MQTT\AndriiBalakhtinConsoleApp\AndriiBalakhtinConsoleApp\obj\Debug\net8.0\AndriiBalakhtinConsoleApp.sourcelink.json

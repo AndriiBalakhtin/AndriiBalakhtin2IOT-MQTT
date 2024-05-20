@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AndriiBalakhtinConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea8ee860c82a7537dd42edd091adf5f16a1b66cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9a87933fe924d6f630450ef32e91e56b87fbbc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AndriiBalakhtinConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AndriiBalakhtinConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

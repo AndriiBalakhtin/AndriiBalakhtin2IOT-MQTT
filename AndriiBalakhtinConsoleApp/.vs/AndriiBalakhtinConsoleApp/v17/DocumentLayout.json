@@ -30,8 +30,7 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BALAKHTINA_DESKTOP_ANDRIIBALAKHTIN2IOT_MQTT_TABLERICEVEDDATE.MDF/True/SqlTable/dbo.Dati.sql",
               "ToolTip": "dbo.Dati [Dati]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-20T11:52:01.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T11:52:01.824Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "AndriiBalakhtinConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\balakhtina\\Desktop\\AndriiBalakhtin2IOT-MQTT\\AndriiBalakhtinConsoleApp\\AndriiBalakhtinConsoleApp\\Program.cs",
               "RelativeToolTip": "AndriiBalakhtinConsoleApp\\Program.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAA4wFIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwFQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T11:13:25.769Z",
               "EditorCaption": ""

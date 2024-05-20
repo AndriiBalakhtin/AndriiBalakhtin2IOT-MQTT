@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\balakhtina\\Desktop\\AndriiBalakhtin2IOT-MQTT\\WindowsForm-Grafic\\WindowsForm-Grafic\\WindowsForm-Grafic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\balakhtina\\Desktop\\AndriiBalakhtin2IOT-MQTT\\WindowsForm-Grafic\\WindowsForm-Grafic\\WindowsForm-Grafic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\balakhtina\\Desktop\\AndriiBalakhtin2IOT-MQTT\\WindowsForm-Grafic\\WindowsForm-Grafic\\WindowsForm-Grafic.csproj",
+        "projectName": "WindowsForm-Grafic",
+        "projectPath": "C:\\Users\\balakhtina\\Desktop\\AndriiBalakhtin2IOT-MQTT\\WindowsForm-Grafic\\WindowsForm-Grafic\\WindowsForm-Grafic.csproj",
+        "packagesPath": "C:\\Users\\balakhtina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\balakhtina\\Desktop\\AndriiBalakhtin2IOT-MQTT\\WindowsForm-Grafic\\WindowsForm-Grafic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\balakhtina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "LiveCharts": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "LiveCharts.WinForms": {
+              "target": "Package",
+              "version": "[0.9.7.1, )"
+            },
+            "LiveCharts.WinForms.NetCore3": {
+              "target": "Package",
+              "version": "[0.9.8, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
